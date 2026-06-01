@@ -16,7 +16,7 @@ body {
     top:20px;
     right: 20px;
     z-index: 1000;
-    cursor: pointer
+    cursor: pointer;
 }
 
 .menu-btn span{
